@@ -57,7 +57,7 @@ This behavior emerges naturally from our differential equations modeling attachm
 - **Avoidant:** Low anxiety, high avoidance (emotional distance)
 - **Fearful:** High anxiety, high avoidance (conflict between desire and fear)
 
-**Fraley & Shaver (2000)** and **Gagliardi et al. (2022)** showed attachment exists on continuous dimensions (anxiety × avoidance), not discrete categories.
+**Fraley & Shaver (2000)** showed attachment exists on continuous dimensions (anxiety × avoidance), not discrete categories. **Gagliardi et al. (2022)** implemented this dimensional perspective computationally.
 
 ### 2.2 Computational Models of Emotion
 
@@ -380,7 +380,7 @@ This work suggests a new paradigm for emotional AI: instead of instructing model
 
 4. **Fraley, R. C., & Shaver, P. R. (2000).** Adult romantic attachment: Theoretical developments, emerging controversies, and unanswered questions. *Review of General Psychology, 4*(2), 132-154.
 
-5. **Gagliardi, J., Andrade, A. L., & Enum, A. S. (2022).** Dimensional models of adult attachment: A systematic review. *Estudos de Psicologia, 39*, e210009.
+5. **Gagliardi, G., Leemhuis, E., De Martino, M. L., Pazzaglia, M., & Giamundo, M. (2022).** Human attachment as a multi-dimensional control system: A computational implementation. *Frontiers in Psychology, 13*, 844012.
 
 6. **Gebhard, P. (2005).** ALMA: A layered model of affect. *Proceedings of the Fourth International Joint Conference on Autonomous Agents and Multiagent Systems*, 29-36.
 

@@ -34,7 +34,7 @@ This isn't programmed behavior—it emerges from the underlying psychological mo
 | **Attachment Theory** | Bowlby (1969), Ainsworth (1978), Fraley & Shaver (2000) | 2D anxiety-avoidance attachment dimensions |
 | **Big Five Personality** | Costa & McCrae (1992) | Neuroticism as trait variable affecting emotional volatility |
 | **Ornstein-Uhlenbeck Process** | Uhlenbeck & Ornstein (1930) | Mean-reverting stochastic process for affect dynamics |
-| **Dimensional Attachment** | Gagliardi et al. (2022) | Continuous anxiety/avoidance dimensions vs categorical types |
+| **Dimensional Attachment** | Gagliardi et al. (2022) | Multi-dimensional control system implementation |
 
 ### Validation Results
 
